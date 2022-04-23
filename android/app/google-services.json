@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421274990157",
+    "project_id": "organikjadirpapp",
+    "storage_bucket": "organikjadirpapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421274990157:android:2d3d64eb893a27ecc74e04",
+        "android_client_info": {
+          "package_name": "com.example.ojir_heroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421274990157-gs3uurqssoh6ss5785eare4lt0drg63d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAot_U5HG1IO1QCPvUojgpqXTX4eGVQSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421274990157-gs3uurqssoh6ss5785eare4lt0drg63d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
