@@ -37,7 +37,7 @@ class RegisterationScreen extends StatelessWidget
 
               SizedBox(height: 1.0,),
               Text(
-                "Register as a Driver",
+                "Register Screen 1",
                 style: TextStyle(fontSize: 24.0, fontFamily: "Brand Bold"),
                 textAlign: TextAlign.center,
               ),

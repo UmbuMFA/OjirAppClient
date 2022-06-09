@@ -7,7 +7,7 @@ import 'package:ojir_heroapp/Models/allUsers.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-String mapKey = "AIzaSyDf_dgp7UnssKb66SImyx6EvapjxCtYC5I";
+String mapKey = "AIzaSyAAot_U5HG1IO1QCPvUojgpqXTX4eGVQSA";
 
 User firebaseUser;
 
